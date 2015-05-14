@@ -116,6 +116,6 @@ xyplot(steps ~ interval | wd, avg, type = "l", layout = c(1, 2), xlab = "Interva
 Weekday and weekend seem have different patterns. Weekend patten is more homogenous but in weekdays the steps in the interval between 800 to 900 are much higher than other time intervals.
 
 ```{r}
-library(knitr)
-knit2html('PA1_template.rmd')
+#library(knitr)
+#knit2html('PA1_template.rmd')
 ```
