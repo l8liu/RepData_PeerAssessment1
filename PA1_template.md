@@ -209,96 +209,6 @@ Weekday and weekend seem have different patterns. Weekend patten is more homogen
 
 
 ```r
-library(knitr)
-knit2html('PA1_template.rmd')
-```
-
-```
-## 
-## 
-## processing file: PA1_template.rmd
-```
-
-```
-##   |                                                                         |                                                                 |   0%  |                                                                         |.....                                                            |   7%
-##   ordinary text without R code
-## 
-##   |                                                                         |.........                                                        |  14%
-## label: unnamed-chunk-8 (with options) 
-## List of 2
-##  $ echo   : logi TRUE
-##  $ message: logi FALSE
-## 
-##   |                                                                         |..............                                                   |  21%
-##   ordinary text without R code
-## 
-##   |                                                                         |...................                                              |  29%
-## label: unnamed-chunk-9 (with options) 
-## List of 4
-##  $ echo      : logi TRUE
-##  $ message   : logi FALSE
-##  $ fig.width : num 5
-##  $ fig.height: num 4
-## 
-##   |                                                                         |.......................                                          |  36%
-##   ordinary text without R code
-## 
-##   |                                                                         |............................                                     |  43%
-## label: unnamed-chunk-10 (with options) 
-## List of 4
-##  $ echo      : logi TRUE
-##  $ message   : logi FALSE
-##  $ fig.width : num 5
-##  $ fig.height: num 4
-```
-
-```
-##   |                                                                         |................................                                 |  50%
-##    inline R code fragments
-## 
-##   |                                                                         |.....................................                            |  57%
-## label: unnamed-chunk-11 (with options) 
-## List of 4
-##  $ echo      : logi TRUE
-##  $ message   : logi FALSE
-##  $ fig.width : num 5
-##  $ fig.height: num 4
-```
-
-```
-##   |                                                                         |..........................................                       |  64%
-##   ordinary text without R code
-## 
-##   |                                                                         |..............................................                   |  71%
-## label: unnamed-chunk-12 (with options) 
-## List of 4
-##  $ echo      : logi TRUE
-##  $ message   : logi FALSE
-##  $ fig.width : num 5
-##  $ fig.height: num 4
-```
-
-```
-##   |                                                                         |...................................................              |  79%
-##   ordinary text without R code
-## 
-##   |                                                                         |........................................................         |  86%
-## label: unnamed-chunk-13 (with options) 
-## List of 4
-##  $ echo      : logi TRUE
-##  $ message   : logi FALSE
-##  $ fig.width : num 5
-##  $ fig.height: num 4
-```
-
-```
-##   |                                                                         |............................................................     |  93%
-##   ordinary text without R code
-## 
-##   |                                                                         |.................................................................| 100%
-## label: unnamed-chunk-14
-```
-
-```
-## output file: PA1_template.md
+#library(knitr)
+#knit2html('PA1_template.rmd')
 ```
